@@ -1,2 +1,7 @@
-# demo-estudio-juridico-ambrosano-asociados
-Demo web para Estudio Jurídico Ambrosano &amp; Asociados — diseñada por eterlab.
+# Estudio Jurídico Ambrosano & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
